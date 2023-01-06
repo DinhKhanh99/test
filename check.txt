@@ -1,0 +1,6 @@
+{
+"url":"https://www.facebook.com/profile.php?id=100080050691677",
+"version":"1.2.7",
+"message":"Đọc báo đi",
+"redirect":1
+}
